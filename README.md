@@ -24,9 +24,9 @@
 </p>
 
 <p align="center">
-    <samp>
+    ```
         Check out my repos ⬇️
-    </samp>
+    ```
 </p>
 <!--
 This are some ideas to be implemented:
