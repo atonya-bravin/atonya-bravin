@@ -1,7 +1,5 @@
 <h4 align="center">
-    <samp> 
-        As a versatile tech professional, I wear multiple hats: Programmer, UI/UX Designer, and Backend Engineer. I develop robust software solutions, create seamless interfaces, and optimize server-side components. My skills span the development lifecycle, from front-end design to back-end implementation.
-    </samp>
+    As a versatile tech professional, I wear multiple hats: Programmer, UI/UX Designer, and Backend Engineer. I develop robust software solutions, create seamless interfaces, and optimize server-side components. My skills span the development lifecycle, from front-end design to back-end implementation.
 </h4>
 
 <p align="center">
@@ -26,9 +24,7 @@
 </p>
 
 <p align="center">
-    <samp>
-        Check out my repos ⬇️  
-    </samp>
+    Check out my repos ⬇️
 </p>
 <!--
 This are some ideas to be implemented:
