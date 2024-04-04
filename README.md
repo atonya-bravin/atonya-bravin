@@ -25,9 +25,9 @@
 
 ----
 <p align="center">
-    <samp>
+    <h4>
         Check out my repos ⬇️
-    </samp>
+    </h4>
 </p>
 <!--
 This are some ideas to be implemented:
