@@ -24,8 +24,8 @@
 </p>
 
 ----
-<p align="center">
-    <h4>
+<p>
+    <h4 align="center">
         Check out my repos ⬇️
     </h4>
 </p>
