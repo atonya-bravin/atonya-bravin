@@ -23,11 +23,9 @@
     </a>
 </p>
 
-<p align="center">
-    ```
-        Check out my repos ⬇️
-    ```
-</p>
+```
+    Check out my repos ⬇️
+```
 <!--
 This are some ideas to be implemented:
 - 🔭 I’m currently working on ...
