@@ -8,7 +8,11 @@
     <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-
+<p align="center">
+    <samp>
+        Lets Get Connected ⬇️  
+    </samp>
+</p>
 <p align="center">
     <a href= "https://dev.to/atonyabravin">
         <img width="32" height="32" src="https://img.icons8.com/windows/32/dev.png"/>
@@ -16,7 +20,7 @@
     <a href= "https://twitter.com/bravin_the_Geek">
         <img width="32" height="32" src="https://img.icons8.com/fluency/144/twitterx--v1.png"/>
     </a>
-    <a href= "https://www.linkedin.com/in/bravin-atonya-71048425a/"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/></a>
+    <a href= "https://www.linkedin.com/in/bravin-atonya-71048425a/"><img src="https://img.icons8.com/fluency-systems-filled/48/linkedin.png"/></a>
 </p>
 
 <p align="center">
