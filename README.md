@@ -11,8 +11,8 @@
 
 <p align="center">
     <a href= "https://dev.to/atonyabravin"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/></a>
-    <a href= "https://twitter.com/ari_hacks">
-        <img width="64" height="64" src="https://img.icons8.com/fluency/144/twitterx--v1.png"/>
+    <a href= "https://twitter.com/bravin_the_Geek">
+        <img width="32" height="32" src="https://img.icons8.com/fluency/144/twitterx--v1.png"/>
     </a>
     <a href= "https://www.linkedin.com/in/bravin-atonya-71048425a/"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/></a>
 </p>
