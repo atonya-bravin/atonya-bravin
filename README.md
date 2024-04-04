@@ -15,12 +15,14 @@
 </p>
 <p align="center">
     <a href= "https://dev.to/atonyabravin">
-        <img width="32" height="32" src="https://img.icons8.com/windows/32/dev.png"/>
+        <img width="64" height="64" src="https://img.icons8.com/windows/32/dev.png"/>
     </a>
     <a href= "https://twitter.com/bravin_the_Geek">
-        <img width="32" height="32" src="https://img.icons8.com/fluency/144/twitterx--v1.png"/>
+        <img width="64" height="64" src="https://img.icons8.com/fluency/144/twitterx--v1.png"/>
     </a>
-    <a href= "https://www.linkedin.com/in/bravin-atonya-71048425a/"><img width="32" height="32" src="https://img.icons8.com/fluency-systems-filled/48/linkedin.png"/></a>
+    <a href= "https://www.linkedin.com/in/bravin-atonya-71048425a/">
+        <img width="64" height="64" src="https://img.icons8.com/fluency-systems-filled/48/linkedin.png"/>
+    </a>
 </p>
 
 <p align="center">
