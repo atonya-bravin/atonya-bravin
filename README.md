@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img width="250" src="https://drive.google.com/drive/u/0/folders/1YpBVNolXYqcCCrakFmqWAmhLmQ06MY2c">
+    <img width="250" src="https://photos.app.goo.gl/Qy24w7C42WH5xiWQ6">
 </p>
 
 <p align="center">
