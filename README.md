@@ -10,7 +10,7 @@
 
 <p align="center">
     <b>
-        Lets Get Connected ⬇️
+        Lets Get Connected
     </b>
 </p>
 <p align="center">
