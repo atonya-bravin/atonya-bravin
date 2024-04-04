@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img width="250" src="https://lh3.googleusercontent.com/pw/AP1GczM2peU4b5PcKPCB81Omj8BxrWC2nZhXZONPpGsrawy3H4IcE6mouEJdfMvEfza7w5T88qIBYBEd7Gx9rLxj8cuBZcQ17A9DNUq-_iek_Dw249C9nw=w2400">
+    <img width="150" src="https://lh3.googleusercontent.com/pw/AP1GczM2peU4b5PcKPCB81Omj8BxrWC2nZhXZONPpGsrawy3H4IcE6mouEJdfMvEfza7w5T88qIBYBEd7Gx9rLxj8cuBZcQ17A9DNUq-_iek_Dw249C9nw=w2400">
 </p>
 
 <p align="center">
