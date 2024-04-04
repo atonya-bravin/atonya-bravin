@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-    <samp>
-        Lets Get Connected ⬇️  
-    </samp>
+    <b>
+        Lets Get Connected ⬇️
+    </b>
 </p>
 <p align="center">
     <a href= "https://dev.to/atonyabravin">
@@ -20,7 +20,7 @@
     <a href= "https://twitter.com/bravin_the_Geek">
         <img width="32" height="32" src="https://img.icons8.com/fluency/144/twitterx--v1.png"/>
     </a>
-    <a href= "https://www.linkedin.com/in/bravin-atonya-71048425a/"><img src="https://img.icons8.com/fluency-systems-filled/48/linkedin.png"/></a>
+    <a href= "https://www.linkedin.com/in/bravin-atonya-71048425a/"><img width="32" height="32" src="https://img.icons8.com/fluency-systems-filled/48/linkedin.png"/></a>
 </p>
 
 <p align="center">
