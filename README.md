@@ -23,11 +23,12 @@
     </a>
 </p>
 
-```
-    <p align="center">
+----
+<p align="center">
+    <samp>
         Check out my repos ⬇️
-    </p>
-```
+    </samp>
+</p>
 <!--
 This are some ideas to be implemented:
 - 🔭 I’m currently working on ...
