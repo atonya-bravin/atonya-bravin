@@ -24,7 +24,9 @@
 </p>
 
 <p align="center">
-    Check out my repos ⬇️
+    <samp>
+        Check out my repos ⬇️
+    </samp>
 </p>
 <!--
 This are some ideas to be implemented:
