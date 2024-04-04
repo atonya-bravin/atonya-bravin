@@ -24,7 +24,9 @@
 </p>
 
 ```
-    Check out my repos ⬇️
+    <p align="center">
+        Check out my repos ⬇️
+    </p>
 ```
 <!--
 This are some ideas to be implemented:
