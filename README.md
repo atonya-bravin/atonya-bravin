@@ -1,6 +1,6 @@
-<h4 align="center">
+<p align="center">
     As a versatile tech professional, I wear multiple hats: Programmer, UI/UX Designer, and Backend Engineer. I develop robust software solutions, create seamless interfaces, and optimize server-side components. My skills span the development lifecycle, from front-end design to back-end implementation.
-</h4>
+</p>
 
 <p align="center">
     <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
