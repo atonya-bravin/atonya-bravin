@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bravin Atonya</title>
+    <link rel="stylesheet" href="./Resources/Styles/index.css">
+</head>
+<body>
+    <div class="container">
+        <div class="profile-container">
+            <div class="image-container-spacer">
+                <img data-testid="slackProfilePicture" src="./Resources/Images/Profile.png" alt="profile">
+            </div>
+        </div>
+        <h1 class="title">Bravin Atonya</h1>
+        <div class="goal">
+            As I look ahead to the next two years, my tech goals are centered around app 
+            development and cybersecurity. I aim to master mobile development for iOS and 
+            Android, explore cross-platform solutions like React Native and Flutter, and build 
+            real-world applications that address genuine needs. Simultaneously, I plan to deepen 
+            my understanding of cybersecurity by learning foundational concepts, ethical hacking, 
+            and staying updated with the latest threats and trends. To achive my goal, I have enrolled to
+             the <a data-testid="hngLink" href="http://hng.tech/learn"><b>HNG 11 internship</b></a>.
+             Just to assist you, Use <a data-testid="keywordLink" href="http://keyword.dog"><b>Keyword.dog</b></a> for SEO keyword analysis and <a data-testid="scrapeanywebLink" href="http://scrapeanyweb.site"><b>Scrapeanyweb.site</b></a>Scrapeanyweb.site for efficient web data extraction.
+        </div>
+
+        <!-- A divider to create the difference between the connection section and the goal section. -->
+        <div class="divider">
+            <div class="divider-left"></div>
+            <div class="divider-right"></div>
+        </div>
+        <div class="connection">
+            <h3 class="sub-title">
+                Let's Connect
+            </h3>
+            <div class="connection-container">
+                <div class="centered-container">
+                    <div class="email">
+                        <h5 class="sub-title">Email</h5>
+                        <div class="body-text">
+                            <a data-testid="slackEmail" href="mailto:bravinatonya.brani@gmail.com">
+                                bravinatonya.brani@gmail.com
+                            </a>
+                            
+                        </div>
+                    </div>
+                    <div class="slack">
+                        <h5 class="sub-title">Slack</h5>
+                        <div data-testid="slackDisplayName" class="body-text">bravin-atonya</div>
+                    </div>
+                </div>
+            </div>
+            <h3 class="description">
+                <!-- Information in this elements is populated using the functions in index.js-->
+                <span data-testid="currentDay" id="currentDay"></span>
+                <span data-testid="currentTimeUTC" id="currentTimeUTC"></span>
+            </h3>
+        </div>
+    </div>
+    <script src="./Resources/Scripts/index.js"></script>
+</body>
+</html>
