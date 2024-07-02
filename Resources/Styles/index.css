@@ -50,6 +50,7 @@ body{
     Making the image container round, including a border around it and inserting a padding on it
 */
 .profile-container{
+    margin-top: 1em;
     border-width: 8px;
     border-style: solid;
     border-color: #D1006C;
@@ -185,8 +186,5 @@ a{
     }
     .email, .slack{
         width: 100%;
-    }
-    body{
-        margin-top: 1em;
     }
 }
