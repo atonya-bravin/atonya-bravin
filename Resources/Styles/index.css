@@ -1,0 +1,197 @@
+/*
+    Removal of the default paddings and margins to make sure that the site starts plain.
+*/
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/*
+    Initialization of the body size.
+    Making the content of the body centered vertically and horizontally
+*/
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*
+    Creation of a custom font to be used on the title
+*/
+@font-face {
+    font-family: title-font;
+    src: url(../Fonts/Poppins/Poppins-Black.ttf);
+}
+
+/*
+    Creation of a custom font to be use on the body text
+*/
+@font-face {
+    font-family: body-font;
+    src: url(../Fonts/Poppins/Poppins-Light.ttf);
+}
+
+/*
+    Creaction of a custom font to be used in the sub-title
+*/
+@font-face {
+    font-family: sub-title-font;
+    src: url(../Fonts/Poppins/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: description-font;
+    src: url(../Fonts/Poppins/Poppins-Light.ttf);
+}
+
+/*
+    Giving the container a resposive size where the width is 80% of the screen size.
+*/
+.container{
+    width: 80%;
+}
+
+/*
+    Making the image container round, including a border around it and inserting a padding on it
+*/
+.profile-container{
+    border-width: 8px;
+    border-style: solid;
+    border-color: #D1006C;
+    border-radius: 50%;
+    display: inline-block;
+    overflow: hidden;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+/*
+    Creation of a white space between the image and image container.
+*/
+.image-container-spacer{
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    overflow: hidden;
+}
+
+/*
+    include the black font to the title to make sure it pops.
+*/
+.title{
+    font-family: title-font;
+    text-align: center;
+    margin-top: 16px;
+    color: #0CABA8;
+}
+
+/*
+    Inclusion of the body font to the body text.
+*/
+.goal, .body-text{
+    font-family: body-font;
+    text-align: center;
+    margin-top: 16px;
+    font-size: 14px;
+}
+
+/*
+    creation of the divider that contains two child elements that brings about the color seperating the connection section and the goal section.
+*/
+.divider{
+    width: 100%;
+    height: .5em;
+    margin-top: 16px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+}
+
+/* The left part of the divider*/
+.divider-left{
+    background-color: #D1006C;
+    width: 50%;
+    height: 100%;
+}
+
+/* The right part of the divider*/
+
+.divider-right{
+    background-color: #0CABA8;
+    height: 100%;
+    width: 50%;
+}
+
+/* The section containing the content to be used in connecting*/
+
+.connection{
+    border-radius: 4px;
+    padding: 2em;
+    box-shadow:2px 15px 10px rgba(0,0,0,0.15);
+}
+
+.connection-container{
+    width: 100%;
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
+}
+
+.centered-container{
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.email, .slack{
+    width: 50%;
+}
+
+/*
+    Customization of the sub-title
+*/
+.sub-title{
+    font-family: sub-title-font, 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.description{
+    font-family: description-font, 'Courier New', Courier, monospace;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 32px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .title {
+      font-size: 24px;
+    }
+    .goal{
+        text-align: left;
+    }
+  }
+
+/*Making sure that the connection content is responsive. i.e the slack name goes under the slack email in smaller screens*/
+
+@media screen and (max-width: 850px) {
+    .centered-container{
+        flex-direction: column;
+    }
+    .centered-container{
+        width: 80%;
+    }
+    .email, .slack{
+        width: 100%;
+    }
+}
