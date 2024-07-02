@@ -1,12 +1,4 @@
 /*
-    Removal of the default paddings and margins to make sure that the site starts plain.
-*/
-*{
-    padding: 0px;
-    margin: 0px;
-}
-
-/*
     Initialization of the body size.
     Making the content of the body centered vertically and horizontally
 */
